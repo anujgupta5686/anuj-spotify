@@ -1,0 +1,8 @@
+commands
+-> npm i ( only once )
+-> npm start (everytime you run this app on your computer)
+-> npm run build ( to make build )
+
+
+-> change client id, (copy from spotify dashboard, paste in spotify folder / Spotify.js)
+-> update redirect url in spotify dashboard website project
